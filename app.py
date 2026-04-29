@@ -19,5 +19,5 @@ if __name__ == "__main__":
     print(f"3 x 4 = {multiply(3, 4)}")
     print(f"10 / 2 = {divide(10, 2)}")
 
-if power(a,b):
-   return a**b
+def power(a, b):
+   return a ** b
